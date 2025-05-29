@@ -11,6 +11,9 @@ This section highlights a collection of **data analysis projects** focused on **
 
 A comprehensive study of Blinkit's **sales**, **inventory distribution**, and **customer ratings**. Focuses on KPIs like **Total Sales**, **Average Sales**, **Item Count**, and **Average Rating** with visualizations across **outlet types, sizes, and locations**.
 
+<img width="804" alt="image" src="https://github.com/user-attachments/assets/8de0e1c1-135c-4a6f-b688-4cc0b9a4a5b8" />
+
+
 #### **🔸 _Customer Support Performance Analysis_**
 
 An analysis of **customer call data** to identify pain points in service operations. Tracks **CSAT Score**, **Sentiment Score**, **SLA compliance**, **issue resolution time**, and **first-contact resolution rate**.
