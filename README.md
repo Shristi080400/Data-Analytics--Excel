@@ -18,6 +18,9 @@ A comprehensive study of Blinkit's **sales**, **inventory distribution**, and **
 
 An analysis of **customer call data** to identify pain points in service operations. Tracks **CSAT Score**, **Sentiment Score**, **SLA compliance**, **issue resolution time**, and **first-contact resolution rate**.
 
+<img width="934" alt="image" src="https://github.com/user-attachments/assets/0a6e32a1-6ee0-4676-a062-ed13526f4495" />
+
+
 #### **🔸 _Coffee Shop Sales Analysis_**
 
 Retail sales performance breakdown for a coffee shop, aiming to **boost profitability** through actionable insights from **daily sales trends** and **product preferences**.
