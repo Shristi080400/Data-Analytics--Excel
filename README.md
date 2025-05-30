@@ -32,4 +32,6 @@ Retail sales performance breakdown for a coffee shop, aiming to **boost profitab
 
 Cleaned and analyzed **international coffee sales data** using advanced Excel functions (**XLOOKUP**, **Pivot Tables**, **IF statements**). Created an **interactive dashboard** to explore **customer behavior** and **revenue trends**.
 
+<img width="1208" alt="image" src="https://github.com/user-attachments/assets/cc33e1e3-a180-4e72-bfc3-3161fcdc0632" />
+
 ---
